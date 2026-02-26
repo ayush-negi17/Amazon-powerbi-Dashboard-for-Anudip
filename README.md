@@ -70,7 +70,7 @@ This project was developed as part of a Business Analytics / BCA coursework to d
 
 ## 👨‍💻 Author
 Deepak Singh  
-Ayush negi 
+Ayush Negi 
 Anuj
 BCA Student  
 Indraprastha Engineering College  
